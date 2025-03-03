@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z390 Designare, Intel Core i9 9900K, AMD Radeon RX 580 8Gb XFX
 
+![Overview](https://github.com/user-attachments/assets/b109b1e4-23d0-40e8-b304-891a772f737c)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.1)
